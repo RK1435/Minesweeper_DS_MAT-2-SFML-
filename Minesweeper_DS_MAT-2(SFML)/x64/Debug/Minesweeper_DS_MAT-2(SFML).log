@@ -1,0 +1,5 @@
+﻿  Minesweeper_DS_MAT-2(SFML).cpp
+D:\C++ & DS Projects and Practice\MAIN PROJECTS\Minesweeper_DS_MAT-2(SFML)\Minesweeper_DS_MAT-2(SFML)\Minesweeper_DS_MAT-2(SFML).cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++ & DS Projects and Practice\MAIN PROJECTS\Minesweeper_DS_MAT-2(SFML)\Minesweeper_DS_MAT-2(SFML)\Minesweeper_DS_MAT-2(SFML).cpp(88,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++ & DS Projects and Practice\MAIN PROJECTS\Minesweeper_DS_MAT-2(SFML)\Minesweeper_DS_MAT-2(SFML)\Minesweeper_DS_MAT-2(SFML).cpp(88,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Minesweeper_DS_MAT-2(SFML).vcxproj -> D:\C++ & DS Projects and Practice\MAIN PROJECTS\Minesweeper_DS_MAT-2(SFML)\x64\Debug\Minesweeper_DS_MAT-2(SFML).exe
